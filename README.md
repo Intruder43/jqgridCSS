@@ -1,2 +1,2 @@
 # jqgridCSS
-Modefied jqgrid
+Modefied jqgrid UI
