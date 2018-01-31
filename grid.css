@@ -1,0 +1,20 @@
+.ui-jqgrid .ui-jqgrid-labels th.ui-th-column {
+        background-color: #fff;
+        background-image: none;
+    }
+    .ui-jqgrid .ui-jqgrid-pager {
+        background-color: #fff;
+        background-image: none;
+    }
+    #divCustomerForm{
+        margin-top: 10%;
+    }
+    .ui-jqgrid .ui-widget .ui-widget-content .ui-corner-all {
+        border: #000;
+        border-style: solid;
+        border-width: thin;
+    }
+    .ui-jqgrid tr.jqgrow td {
+        white-space: nowrap !important;
+    }
+    .ui-jqgrid .ui-state-hover{background: #cde4ff;}
